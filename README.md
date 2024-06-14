@@ -1,4 +1,10 @@
-# React + Vite
+# Eshop HomePage made on React&Tailwind 
+Tech Stack: Vite  + React + Tailwind
+
+Cool stuff:
+1. Dark mode
+2. Tailwind animations
+3. Slick slider
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
