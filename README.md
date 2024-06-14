@@ -1,5 +1,6 @@
 # Eshop HomePage made on React&Tailwind 
 Tech Stack: Vite  + React + Tailwind
+Deployes on Netlify
 
 Cool stuff:
 1. Dark mode
