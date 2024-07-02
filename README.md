@@ -1,5 +1,5 @@
 # Eshop HomePage made on React&Tailwind 
-Tech Stack: Vite  + React + Tailwind
+Tech Stack: Vite  + React + Tailwind CSS
 Deployes on Netlify
 
 Cool stuff:
